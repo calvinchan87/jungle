@@ -1,3 +1,12 @@
+<% if enhanced_cart.length == 0 %>
+
+  <script type="text/javascript">
+    alert("Cart is empty, redirecting you back to product catalogue...");
+    window.location.href="/products"
+  </script>
+  
+<% else %>
+
 <section class="cart-show">
 
   <header class="page-header">
@@ -50,3 +59,5 @@
   </div>
 
 </section>
+
+<% end %>
