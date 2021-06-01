@@ -1,0 +1,12 @@
+<tr>
+  <td>
+    <h4>
+      <%= link_to category do %>
+        <%= category.name %>
+      <% end %>
+    </h4>
+  </td>
+  <td>
+    <%= category.products.count %>
+  </td>
+</tr> 
