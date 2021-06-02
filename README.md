@@ -33,3 +33,9 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+!["Screenshot of user dashboard"](https://github.com/calvinchan87/jungle/blob/master/docs/admin.png?raw=true)
+!["Screenshot of shopping cart"](https://github.com/calvinchan87/jungle/blob/master/docs/cart.png?raw=true)
+!["Screenshot of admin dashboard"](https://github.com/calvinchan87/jungle/blob/master/docs/admin.png?raw=true)
